@@ -1,4 +1,4 @@
-version: '2'
+version: '3'
 services:
   python:
     image: kammana/python-redis:1.0
